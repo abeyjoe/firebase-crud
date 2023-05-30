@@ -1,0 +1,38 @@
+body {
+background-color: skyblue;
+color: #fff;
+}
+
+.container {
+margin: auto;
+border: 1px solid white;
+border-radius: 15px;
+height: 350px;
+width: 350px;
+padding: 25px;
+}
+input {
+border: none;
+background: none;
+
+border: 0px solid #fff;
+border-bottom: 2px solid #fff;
+border-radius: 15px;
+padding: 5px;
+margin-left: 25px;
+
+background-color: #fff;
+opacity: 40%;
+}
+
+button {
+padding: 10px;
+background-color: skyblue;
+color: #fff;
+border-radius: 5px;
+boder: none;
+}
+button:hover {
+background-color: #fff;
+color: skyblue;
+}
